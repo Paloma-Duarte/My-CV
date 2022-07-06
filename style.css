@@ -1,0 +1,71 @@
+body {
+    background-color: rgba(240, 227, 255, 0.667);
+    font: normal 14px Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin-top: 25px;
+    border-radius: 28px;
+    box-shadow: 3px 3px rgba(199, 149, 221, 0.35);
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.card {
+    padding: 10px 30px 20px;
+    margin-bottom: 15px;
+    background: rgba(232, 192, 252, 0.699);
+    border-radius: 16px;
+    box-shadow: 2px 3px rgba(199, 149, 221, 0.18);
+    color: #1b0234;
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+    list-style-type: none ;
+    margin-left: 245px;
+}
+ .list li {
+    padding: 6px;
+ }
+
+
+.table {
+    width: 60%;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.table td, th {
+    padding: 6px;
+}
+
+.info {
+    display: flex;
+    padding: 20px 50px 20px 70px;
+    margin-bottom: 15px;
+    background: rgba(232, 192, 252, 0.699);
+    border-radius: 16px;
+    box-shadow: 2px 3px rgba(199, 149, 221, 0.18);
+    color: #1b0234;
+}
+.info-text {
+    width: 100%;
+    margin-left: 50px;
+}
+
+.info-text p {
+margin: 6px;    
+}
+
+.contact {
+    padding-right: 40px;
+}
+
